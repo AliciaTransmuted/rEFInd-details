@@ -38,7 +38,9 @@ rEFInd-details notes
 -------------------------------
 
 September 10, 2018
-Initial release of rEFInd-details.
+Initial release of rEFInd-details to DeviantArt.
 Many new product icons were added in this release.
 All icons were recreated and/or redesigned with the goal of making them consistent, attractive and intuitive.
 The background image, called "Details", is one of my photographs.
+
+December 30, 2018: rEFInd-details theme uploaded to github.
