@@ -45,4 +45,6 @@ The background image, called "Details", is one of my photographs.
 
 December 30, 2018: rEFInd-details theme uploaded to github.
 
-January 6, 2018: Added icons for Sparky Linux, GameDrift, and Lakka
+January 6, 2019: Added icons for Sparky Linux, GameDrift, and Lakka
+
+March 30, 2019: Added icons for Pop OS and Pisi Linux
